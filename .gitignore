@@ -9,3 +9,8 @@ package.json
 updater.js
 icon.ico
 icon.icns
+.gitignore
+icons/
+bower_components/
+.compilerc
+.eslintrc
