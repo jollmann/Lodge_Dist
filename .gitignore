@@ -5,3 +5,7 @@ dist/
 private/
 electron-builder.yml
 src/
+package.json
+updater.js
+icon.ico
+icon.icns
